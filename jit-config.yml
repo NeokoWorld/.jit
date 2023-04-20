@@ -1,6 +1,0 @@
-applications:
-- application_name: Destockage Habitat
-  authentication_mode: non-authenticated
-  exclude_paths: []
-  target_url: https://homolog.destockage-habitat.com
-  type: web
